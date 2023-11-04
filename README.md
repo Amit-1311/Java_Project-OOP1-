@@ -63,6 +63,3 @@ The project is structured as follows:
 
 - `src/`: Contains the Java source code files.
 - `lib/`: Stores any external libraries or dependencies (if used).
-
-
-Thank you for using the Banking Management System project. If you have any questions or encounter any issues, please feel free to reach out to the project maintainers. Enjoy managing and simulating banking operations with this Java application!
